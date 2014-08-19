@@ -10,7 +10,7 @@
 module.exports = function (grunt) {
 
 
-  // Load grunt tasks automatically
+ // Load grunt tasks automatically
  // require('load-grunt-tasks')(grunt);
 
   // Time how long tasks take. Can help when optimizing build times
@@ -55,7 +55,7 @@ module.exports = function (grunt) {
         port: 9000,
         // Change this to '0.0.0.0' to access the server from outside.
         hostname: '0.0.0.0',
-        livereload: 35729
+        livereload: false
       },
       livereload: {
         options: {
@@ -88,3 +88,4 @@ module.exports = function (grunt) {
     'server'
   ]);
 };
+
