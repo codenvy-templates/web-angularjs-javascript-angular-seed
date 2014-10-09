@@ -1,1 +1,1 @@
-{"attributes":{},"projectTypeId":"AngularJS","builder":null,"runner":"javascript-webapp-grunt","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
+{"type":"AngularJS","attributes":{},"builders":{},"runners":{"default":"javascript-webapp-grunt","configs":{}}}
