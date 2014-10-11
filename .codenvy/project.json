@@ -1,1 +1,1 @@
-{"type":"AngularJS","attributes":{},"builders":{},"runners":{"default":"javascript-webapp-grunt","configs":{}}}
+{"type":"AngularJS","attributes":{},"runners":{"default":"system:/javascript-webapp-grunt/default","configs":{}},"builders":{}}
